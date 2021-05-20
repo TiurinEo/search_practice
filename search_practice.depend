@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1487012148 source:d:\codeblocks\search_practice\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
+1487011920 d:\codeblocks\search_practice\plant.h
+
+1621508579 source:d:\codeblocks\search_practice\main.cpp
+	<iostream>
+	<vector>
+	"plant.h"
+	<discpp.h>
+
+1612549984 d:\codeblocks\search_practice\dislin\discpp.h
+
